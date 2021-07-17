@@ -1,3 +1,4 @@
+// Reduce works like sum of elements of an array
 const numbers = [2, 3, -6, 8];
 
 const output = numbers.reduce((accumulator, currentValue) => {
