@@ -7,4 +7,4 @@
 // numbers.unshift(argument / value);
 
 // // Add to Middle
-// numbers.splice(argument / value);
+// numbers.splice(indexofElement, 0 (since adding), adding elements);
